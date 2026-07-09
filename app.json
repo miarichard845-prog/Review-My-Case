@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Review My Case",
-    "slug": "review-my-case",
+    "slug": "my-first-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
